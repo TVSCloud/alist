@@ -1,4 +1,4 @@
-FROM xhofe/alist:latest
+FROM tvscloud/manager:latest
 LABEL MAINTAINER="i@nn.ci"
 WORKDIR /opt/alist/
 
